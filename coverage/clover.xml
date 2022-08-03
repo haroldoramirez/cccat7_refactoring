@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1659554897792" clover="3.2.0">
+  <project timestamp="1659554897792" name="All files">
+    <metrics statements="17" coveredstatements="17" conditionals="22" coveredconditionals="22" methods="1" coveredmethods="1" elements="40" coveredelements="40" complexity="0" loc="17" ncloc="17" packages="1" files="1" classes="1"/>
+    <file name="calc.ts" path="/home/haroldo/estudos/cccat7_refactoring/src/calc.ts">
+      <metrics statements="17" coveredstatements="17" conditionals="22" coveredconditionals="22" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="7" type="stmt"/>
+      <line num="5" count="7" type="stmt"/>
+      <line num="6" count="7" type="cond" truecount="6" falsecount="0"/>
+      <line num="7" count="6" type="cond" truecount="6" falsecount="0"/>
+      <line num="11" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="14" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="24" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="29" count="2" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="44" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="47" count="4" type="stmt"/>
+    </file>
+  </project>
+</coverage>
