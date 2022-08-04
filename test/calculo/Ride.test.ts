@@ -1,9 +1,9 @@
-import NormalFareCalculator from "../src/NormalFareCalculator";
-import OvernightFareCalculator from "../src/OvernightFareCalculator";
-import OvernightSundayFareCalculator from "../src/OvernightSundayFareCalculator";
-import Ride from "../src/Ride";
-import SpecialDayFareCalculator from "../src/SpecialDayFareCalculator";
-import SundayFareCalculator from "../src/SundayFareCalculator";
+import NormalFareCalculator from "../../src/calculo/NormalFareCalculator";
+import OvernightFareCalculator from "../../src/calculo/OvernightFareCalculator";
+import OvernightSundayFareCalculator from "../../src/calculo/OvernightSundayFareCalculator";
+import Ride from "../../src/calculo/Ride";
+import SpecialDayFareCalculator from "../../src/calculo/SpecialDayFareCalculator";
+import SundayFareCalculator from "../../src/calculo/SundayFareCalculator";
 
 let ride: Ride;
 
