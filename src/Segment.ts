@@ -1,5 +1,4 @@
 export default class Segment {
-
     OVERNIGHT_START = 22;
     OVERNIGHT_END = 6;
 
@@ -23,5 +22,4 @@ export default class Segment {
     isValidDate () {
         return this.date != null && this.date != undefined && this.date instanceof Date && this.date.toString() !== "Invalid Date";
     }
-
 }
