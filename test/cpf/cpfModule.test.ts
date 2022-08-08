@@ -1,4 +1,4 @@
-import { validate } from "../../src/cpf/cpf";
+import { validate } from "../../src/cpf/cpfModule";
 
 test("Deve validar um CPF válido", function () {
     const isValid = validate("056.709.569-07");

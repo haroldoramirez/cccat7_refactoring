@@ -95,4 +95,17 @@ desagrupar variáveis
 
 12 - Variável declarada longe da sua utilização
 
-mover a vi
+mover a variáveis para o local mais adequado
+
+13 - algoritmo confuso
+
+reescrever o algoritmo
+
+14 - nomes estranhos
+
+15 - ifs complexos
+
+consolidar condições
+introduzir cláusulas guarda
+substituir if por ternário
+extrair condições para funções ou variáveis explicativas
