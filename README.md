@@ -42,7 +42,7 @@ Análise do arquivo calc-refatorar.ts
 2 - Afastamento da margem;
 3 - Nomes estranhos - movArray, mov, dist, ds, result, calc
 
-Renomear qualquer coisa que não estava bem entendida
+Renomear qualquer coisa que não esta bem entendida
 
 4 - Números mágicos
 
@@ -89,8 +89,10 @@ Utilizar algum tipo de tratamento de erros/exceptions ou outro tupo de result pa
 Quebra do SRP, Single Responsibility Principle: Devemos separar coisas que mudam por motivos diferentes;
 Quebra do OCP, Open/Closed Principle: Devemos estar abertos para extensão e fechados para modificação
 
+11 - Variáveis declaradas em conjunto
 
+desagrupar variáveis
 
+12 - Variável declarada longe da sua utilização
 
-
-
+mover a vi
